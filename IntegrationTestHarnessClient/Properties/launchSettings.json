@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SecondFirstClientCoreNet": {
+      "commandName": "Project",
+      "commandLineArgs": "runapitests"
+    }
+  }
+}
